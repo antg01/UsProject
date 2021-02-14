@@ -1,5 +1,7 @@
 # Us
 
+The client wanted a mobile app for her expat community. The app allows to create and manage events and meet people around you. 
+
 <h2>Table of Contents</h2>
 
 <ol>
