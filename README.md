@@ -11,6 +11,10 @@
     <li><a href="#textInp">Text Input</a></li>
     <li><a href="#radioInp">Radio Input</a></li>
     <li><a href="#dateInp">Date Input</a></li>
+     <li><a href="#card">Card</a></li> 
+    <li><a href="#btn">Buttons</a></li>
+    <li><a href="#fab">Fab</a></li>
+    <li><a href="#map">Map</a></li>
   </ul>
 </ol>  
 
